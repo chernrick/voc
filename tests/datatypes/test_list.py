@@ -686,7 +686,6 @@ class InplaceListOperationTests(InplaceOperationTestCase, TranspileTestCase):
         'test_add_frozenset',
         'test_add_range',
         'test_add_set',
-        'test_add_str',
 
         'test_and_class',
         'test_and_frozenset',
